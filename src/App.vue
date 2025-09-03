@@ -1,24 +1,13 @@
 <template>
   <div class="appBody ">
     <Header></Header>
-      <div class="content">
-        <Banner></Banner>
-        <ServiceSection></ServiceSection>
-        <ProjectsSection></ProjectsSection>
-        <MeSection></MeSection>
-        <contactSection></contactSection>
-      </div>      
+    <router-view></router-view>   
     <FooterMenu></FooterMenu>
   </div>
 </template>
 
 <script setup>
 import Header from './components/header/Header.vue';
-import Banner from './components/banner/Banner.vue';
-import ProjectsSection from './components/projectsSection/ProjectsSection.vue';
-import MeSection from './components/meSection/MeSection.vue';
-import ServiceSection from './components/serviceSection/ServicesSection.Vue';
-import contactSection from './components/contactSection/contactSection.vue';
 import FooterMenu from './components/Footer/footerMenu.vue';
 
 </script>
