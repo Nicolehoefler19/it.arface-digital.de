@@ -1,6 +1,5 @@
 <template>
     <nav 
-        :class="{ 'fixed-top': window.width > 768 }"
         class="header_cmpnt navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="navbar-brand" aria-current="page" href="/">
