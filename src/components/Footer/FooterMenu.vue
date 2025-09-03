@@ -18,10 +18,10 @@
                 <nav class="navbar navbar-expand-sm align-items-center justify-content-center" aria-label="social links menu">
                         <ul class="navbar-nav iconNavbar">
                             <li class="nav-item">
-                                <a href="https://github.com/Nicolehoefler19" target="_blank" class="bi bi-github"></a>
+                                <a aria-label="Follow me on GitHub" href="https://github.com/Nicolehoefler19" target="_blank" class="bi bi-github"></a>
                             </li>
                             <li class="nav-item">
-                                <a href="https://nicolehoefler.medium.com/" target="_blank" class="bi bi-medium"></a>
+                                <a aria-label="Follow me on Medium" href="https://nicolehoefler.medium.com/" target="_blank" class="bi bi-medium"></a>
                             </li>
                         </ul>
                 </nav>
