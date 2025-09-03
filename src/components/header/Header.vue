@@ -1,5 +1,6 @@
 <template>
     <nav 
+        :class="{'fixed-top': fixed}"
         class="header_cmpnt navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="navbar-brand" aria-current="page" href="/">
@@ -27,7 +28,14 @@
         </div>
     </nav>
 </template>
+<script lang="ts" setup>
+import { ref, onMounted } from 'vue';
+const fixed = ref<boolean>(false);
 
+onMounted(() => {
+    fixed.value = window.innerWidth > 768
+})
+</script>
 <style lang="scss">
 .header_cmpnt {
     background: rgba(26, 0, 26, 0);
