@@ -110,14 +110,10 @@ import FooterMenu from './components/Footer/footerMenu.vue';
   .animatedHeadline {
     @media screen and (min-width: 1280px) {
      overflow: hidden;
-      border-right: .15em solid #FFFFFF;
       white-space: nowrap;
       margin: 0 auto;
       padding: 7px 0;
-      animation: 
-          typing 5s steps(30, end),
-          blink-caret 1s step-end infinite, 
-          stop-blink 3s 2s forwards;      
+      text-align: center;
     }
  
  }

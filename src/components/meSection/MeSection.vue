@@ -1,7 +1,7 @@
 <template>
     <div class="mesection_cmpnt">
         <div class="row">
-            <div class="col-xl-6 col headline justify-content-end">
+            <div class="headline justify-content-end">
                 <h2
                     tabindex="0"   
                     :class="typingEffectActive ? 'animatedHeadline' : ''"
