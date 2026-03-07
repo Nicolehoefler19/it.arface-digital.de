@@ -1,19 +1,13 @@
 <template>
     <div class="projectsection_cmpnt">
         <div class="row">
-            <div class="col-xl-6 justify-content-end d-xl-none">
-                <img class="headlineDecor" alt="" src="../../assets/images/headlineDecor.png">
-            </div>
-            <div class="col-xl-6 headline">
+            <div class="headline">
                 <h2 
                     tabindex="0"
                     :class="typingEffectActive ? 'animatedHeadline' : ''"
                     ref="headline"
                     id="projects"
                 >Digital <span class="textHighlight">Projects</span></h2>
-            </div>
-            <div class="col-xl-6 justify-content-end d-none d-xl-block">
-                <img class="headlineDecor" alt="" src="../../assets/images/headlineDecor.png">
             </div>
         </div>
         <div class="row text-center textHighlight">

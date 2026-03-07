@@ -1,10 +1,10 @@
 <template>
     <div class="container">
         <h1 class="mb-4">Imprint / Legal Notice</h1>
-        <p><strong>Company Name:</strong> IT Artface</p>
-        <p><strong>Address:</strong> Auf der Heide 7, 74731 Walldürn</p>
-        <p><strong>Phone:</strong> +49 162 6526447</p>
-        <p><strong>Email:</strong> n.hoefler@it.artface-digital.de</p>
+        <p><strong>Company Name:</strong> Nicole Höfler (IT Artface)</p>
+        <p><strong>Address:</strong> c/o IP-Management #9002 <br> Ludwig-Erhard-Str. 18 <br> 20459 Hamburg</p>
+        <p><strong>Phone:</strong> +49 6282 9397907</p>
+        <p><strong>Email:</strong> nicole.hoefler@it.artface-digital.de</p>
         <p><strong>Managing Director:</strong> Nicole Höfler</p>
 
         <hr class="my-4">

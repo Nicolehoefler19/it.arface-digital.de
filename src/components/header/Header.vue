@@ -85,4 +85,8 @@ onMounted(() => {
         }
     }
 }
+
+.navbar-toggler {
+  display: none;
+}
 </style>

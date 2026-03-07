@@ -115,7 +115,7 @@ import FooterMenu from './components/Footer/footerMenu.vue';
       margin: 0 auto;
       padding: 7px 0;
       animation: 
-          typing 2s steps(30, end),
+          typing 5s steps(30, end),
           blink-caret 1s step-end infinite, 
           stop-blink 3s 2s forwards;      
     }

@@ -1,10 +1,7 @@
 <template>
     <div class="mesection_cmpnt">
         <div class="row">
-            <div class="col-xl-6">
-                <img class="headlineDecor" alt="" src="../../assets/images/headlineDecor.png">
-            </div>
-            <div class="col-xl-6 headline justify-content-end">
+            <div class="col-xl-6 col headline justify-content-end">
                 <h2
                     tabindex="0"   
                     :class="typingEffectActive ? 'animatedHeadline' : ''"

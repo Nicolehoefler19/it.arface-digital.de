@@ -1,7 +1,7 @@
 <template>
   <div class="container py-5">
     <h1 class="display-4">Privacy Policy</h1>
-    <p class="lead">Last updated: 2025-09-03</p>
+    <p class="lead">Last updated: 2026-03-07</p>
     <p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from <a href="https://it.artface-digital.de">https://it.artface-digital.de</a> (the "Site").</p>
     <h2>PERSONAL INFORMATION WE COLLECT</h2>
     <p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as "Device Information".</p>
@@ -21,11 +21,11 @@
     <h2>CHANGES</h2>
     <p>We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.</p>
     <h2>CONTACT US</h2>
-    <p>For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <a href="mailto:n.hoefler@it.artface-digital.de">n.hoefler@it.artface-digital.de</a> or by mail using the details provided below:</p>
+    <p>For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <a href="mailto:micole.hoefler@it.artface-digital.de">nicole.hoefler@it.artface-digital.de</a> or by mail using the details provided below:</p>
     <p>Nicole Höfler<br>
-    Auf der Heide 7,
-    74731 Walldürn<br>
-    Germany</p>
+      c/o IP-Management #9002
+      Ludwig-Erhard-Str. 18<br>
+      20459 Hamburg</p>
     
   </div>
 </template>

@@ -1,3 +1,5 @@
+<script setup>
+</script>
 <template>
     <footer class="footer_cmpnt">
         <div class="row">
@@ -23,11 +25,14 @@
                             <li class="nav-item">
                                 <a aria-label="Follow me on Medium" href="https://nicolehoefler.medium.com/" target="_blank" class="bi bi-medium"></a>
                             </li>
+                            <li class="nav-item">
+                              <a aria-label="Follow me on Linkedin" href="https://nicolehoefler.medium.com/" target="_blank" class="bi linkedin"></a>
+                            </li>
                         </ul>
                 </nav>
             </div>
             <div class="col-md-4 col-sm-5">
-                <p>All rights reserved. © Nicole Höfler 2025</p>
+                <p>All rights reserved. © Nicole Höfler 2026</p>
             </div>
         </div>
     </footer>

@@ -1,9 +1,6 @@
 <template>
     <div class="servicesection_cmpnt">
         <div class="row">
-            <div class="col-xl-6 decoCol">
-                <img class="headlineDecoLine" alt="" src="../../assets/images/headlineDecor.png">
-            </div>
             <div class="col-xl-6 headline justify-content-end">
                 <h2 
                     tabindex="0"
